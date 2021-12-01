@@ -1,6 +1,7 @@
 # Book Santa Application
 
-The mobile application made in the platform react native
+The mobile application made in the platform react native - Connected to Firestore Google database system
+
 
 Book Santa project, where you can either choose to become a santa (donor) and give someone the book they want to read OR you / another user can choose to request for a book that they want to read.
 
